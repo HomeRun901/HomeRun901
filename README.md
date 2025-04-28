@@ -173,6 +173,3 @@ With 6+ years of web development and trader development experience, I offer the 
 <img align="right" src="https://komarev.com/ghpvc/?username=homerun901"/>
 <br />
 <br />
-<br>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cool725&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
