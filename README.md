@@ -156,12 +156,6 @@ With 6+ years of web development and trader development experience, I offer the 
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
   </a>
-<a href="https://ninjatrader.com/" target="_blank">
-  <img src="https://via.placeholder.com/40?text=NT" alt="NinjaTrader" width="40" height="40"/>
-</a>
-<a href="https://ninjatrader.com/" target="_blank">
-  <img src="https://via.placeholder.com/40?text=NS" alt="NinjaScript" width="40" height="40"/>
-</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="40" height="40"/>
@@ -179,9 +173,6 @@ With 6+ years of web development and trader development experience, I offer the 
 <img align="right" src="https://komarev.com/ghpvc/?username=cool725"/>
 <br />
 <br />
-<a  align="left" href="https://github.com/cool725" title="Go to Source">
-  <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=cool725&theme=react&border=61dafb&hide_border=true" alt="cool725" />
-</a>
 <div>
   <img align="left" alt="cool725's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cool725&theme=github_dark&show_icons=true&hide_border=false" />
   <a align="left" href="https://github.com/cool725">
