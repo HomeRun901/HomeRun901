@@ -170,6 +170,20 @@ With 6+ years of web development and trader development experience, I offer the 
 
 ---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=homerun901"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=HomeRun901"/>
 <br />
 <br />
+<a  align="left" href="https://github.com/HomeRun901" title="Go to Source">
+  <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=HomeRun901&theme=react&border=61dafb&hide_border=true" alt="HomeRun901" />
+</a>
+<div>
+  <img align="left" alt="HomeRun901's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HomeRun901&theme=github_dark&show_icons=true&hide_border=false" />
+  <a align="left" href="https://github.com/HomeRun901">
+  <img width=325 alt="HomeRun901" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomeRun901&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</a>
+</div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HomeRun901&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+<br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HomeRun901&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
